@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/Evapo_GIS" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
